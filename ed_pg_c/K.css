@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+.com{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.po{
+    margin: 50px;
+    height: auto;
+    width: auto;
+}
+.po2{
+    width: 100%;
+}
+a{
+    color: beige;
+}
